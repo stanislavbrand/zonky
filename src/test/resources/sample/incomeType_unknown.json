@@ -1,0 +1,104 @@
+[
+  {
+    "id": 217581,
+    "url": "https://app.zonky.cz/loan/217581",
+    "name": "Petra",
+    "story": "Dovolená s rodinou, nová koupelna",
+    "purpose": "3",
+    "photos": [
+      {
+        "name": "othe-default.fe53b310.png",
+        "url": "/loans/217581/photos/24508"
+      }
+    ],
+    "userId": 245063,
+    "nickName": "zonky245063",
+    "termInMonths": 78,
+    "interestRate": 0.1099,
+    "rating": "A",
+    "topped": null,
+    "amount": 105000,
+    "remainingInvestment": 47800,
+    "investmentRate": 0.5447619047619048,
+    "covered": false,
+    "datePublished": "2018-03-04T08:40:24.099+01:00",
+    "published": true,
+    "deadline": "2018-03-06T08:37:23.205+01:00",
+    "myOtherInvestments": null,
+    "borrowerRelatedInvestmentInfo": null,
+    "investmentsCount": 96,
+    "questionsCount": 1,
+    "region": "12",
+    "mainIncomeType": "SOME_NEW_EMPLOYMENT_TYPE",
+    "questionsAllowed": false,
+    "activeLoansCount": 0
+  },
+  {
+    "id": 219459,
+    "url": "https://app.zonky.cz/loan/219459",
+    "name": "Financni urad je pes :-)",
+    "story": "Dobry den, nevyšlu mi finance na daò z nabytí nemovytosti.",
+    "purpose": "7",
+    "photos": [
+      {
+        "name": "shutterstock_357004067.2ffcd1b9.jpg",
+        "url": "/loans/219459/photos/24510"
+      }
+    ],
+    "userId": 245857,
+    "nickName": "zonky245857",
+    "termInMonths": 84,
+    "interestRate": 0.1099,
+    "rating": "A",
+    "topped": null,
+    "amount": 150000,
+    "remainingInvestment": 124200,
+    "investmentRate": 0.172,
+    "covered": false,
+    "datePublished": "2018-03-04T10:49:45.875+01:00",
+    "published": true,
+    "deadline": "2018-03-06T10:45:46.117+01:00",
+    "myOtherInvestments": null,
+    "borrowerRelatedInvestmentInfo": null,
+    "investmentsCount": 48,
+    "questionsCount": 1,
+    "region": "7",
+    "mainIncomeType": "SELF_EMPLOYMENT",
+    "questionsAllowed": false,
+    "activeLoansCount": 0
+  },
+  {
+    "id": 219465,
+    "url": "https://app.zonky.cz/loan/219465",
+    "name": "Chalupa",
+    "story": "Chci si pùjèit na chalupu",
+    "purpose": "9",
+    "photos": [
+      {
+        "name": "othe-default.fe53b310.png",
+        "url": "/loans/219465/photos/24509"
+      }
+    ],
+    "userId": 241625,
+    "nickName": "zonky241625",
+    "termInMonths": 84,
+    "interestRate": 0.1099,
+    "rating": "A",
+    "topped": null,
+    "amount": 150000,
+    "remainingInvestment": 106400,
+    "investmentRate": 0.2906666666666667,
+    "covered": false,
+    "datePublished": "2018-03-04T10:48:41.539+01:00",
+    "published": true,
+    "deadline": "2018-03-06T10:47:55.407+01:00",
+    "myOtherInvestments": null,
+    "borrowerRelatedInvestmentInfo": null,
+    "investmentsCount": 87,
+    "questionsCount": 2,
+    "region": "3",
+    "mainIncomeType": "EMPLOYMENT",
+    "questionsAllowed": false,
+    "activeLoansCount": 0
+  }
+]

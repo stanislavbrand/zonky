@@ -1,0 +1,36 @@
+[
+  {
+    "id": 217581,
+    "url": "https://app.zonky.cz/loan/217581",
+    "name": "Petra",
+    "story": "Dovolená s rodinou, nová koupelna",
+    "purpose": "3",
+    "photos": [
+      {
+        "name": "othe-default.fe53b310.png",
+        "url": "/loans/217581/photos/24508"
+      }
+    ],
+    "userId": 245063,
+    "nickName": "zonky245063",
+    "termInMonths": 78,
+    "interestRate": 0.1099,
+    "rating": "A",
+    "topped": null,
+    "amount": 105000,
+    "remainingInvestment": 47800,
+    "investmentRate": 0.5447619047619048,
+    "covered": false,
+    "datePublished": "2018-03-04T08:40:24.099+01:00",
+    "published": true,
+    "deadline": "2018-03-06T08:37:23.205+01:00",
+    "myOtherInvestments": null,
+    "borrowerRelatedInvestmentInfo": null,
+    "investmentsCount": 96,
+    "questionsCount": 1,
+    "region": "12",
+    "mainIncomeType": "EMPLOYMENT",
+    "questionsAllowed": false,
+    "activeLoansCount": 0
+  }
+]
